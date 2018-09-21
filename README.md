@@ -24,7 +24,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        - Diagrama de Rippl;   
        ![Diagrama de Rippl](Diagrama_rippl.jpg)
 
-       - Determinação do período crítico;
+       - Determinação do período crítico;   
        
        A partir da Figura 6, pode-se determinar o período crítico, que corresponde ao período em que o reservatório está em seu nível máximo até o momento em que atinge seu nível mínimo. Sendo assim, o período crítico se dá, aproximadamente, entre as semanas 7 e 37.
        ![Médias semanais das vazões](Medias_semanais_vazao.jpg)
