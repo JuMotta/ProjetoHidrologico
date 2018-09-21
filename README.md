@@ -11,6 +11,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        - Fluviograma dos dados, dispostos em valores anuais e decenais;
        
        ![Fluviograma anual](Fluviograma_anual.jpg)
+       
        ![Fluviograma decenal](Fluviograma_decenal.jpg)
        
        - Curva de duração de vazões;
