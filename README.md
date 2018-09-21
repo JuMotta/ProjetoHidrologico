@@ -30,6 +30,8 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        ![Médias semanais das vazões](Medias_semanais_vazao.jpg)
         
        - Determinação de períodos seco e úmido;
+       O período seco corresponde aos meses do ano hidrológico em que ocorre o período crítico, ou seja, no caso analisado corresponde ao meses...
+       Já o período úmido são os meses restantes, no caso analisado, os meses...
         
        - Determinação de valores extremos;
         
