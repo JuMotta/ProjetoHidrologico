@@ -21,7 +21,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        - Curva de duração de potência para uma queda (Determinada no projeto do aproveitamento) e rendimento de **85%**;
        ![Curva de duração de potência](Curva_duracao_potencia.jpg)
        
-       - Diagrama de Rippl;  
+       - Diagrama de Rippl;
        ![Diagrama de Rippl](Diagrama_rippl.jpg)
 
        - Determinação do período crítico;
