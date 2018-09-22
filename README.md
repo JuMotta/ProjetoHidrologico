@@ -35,6 +35,8 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
        Já o período úmido são os meses restantes, no caso analisado, os meses...
         
        - Determinação de valores extremos;
+       
+       Como os dados do ano hidrológico e do ano civil são muito próximos para o nosso caso, pode-se adimitir que são iguais. Com isso, a partir da Figura 6 - Médias Semanais das Vazões, é possível determinar os valores de vazão máxima e vazão mínima, os quais correspondem a 900 m^3/s e 260 m^3/s, respectivamente.
         
        - Estimativa da vazão firme e da vazão de projeto para dimensionamento de uma central hidrelétrica;
         
