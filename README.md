@@ -26,7 +26,7 @@ O projeto hidrológico consistirá na realização e apresentação de cálculos
 
        - Determinação do período crítico;   
        
-       A partir da Figura 6, pode-se determinar o período crítico, que é aqeuele que resulta na maior capacidade do reservatório. Considerando um coeficiente de regulariação de vazão igual a 1, ou seja, tomando a vazão necessária como a vazão média dos dados disponibilizados, temos que o período crítico é aproximadamente entre maio e dezembro.
+       A partir da Figura 6, pode-se determinar o período crítico, que é aquele que resulta na maior capacidade do reservatório. Considerando um coeficiente de regulariação de vazão igual a 1, ou seja, tomando a vazão necessária como a vazão média dos dados disponibilizados, temos que o período crítico é aproximadamente entre maio e dezembro.
        
        ![Médias semanais das vazões](Medias_semanais_vazao.jpg)
         
