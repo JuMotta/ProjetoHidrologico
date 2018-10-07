@@ -182,9 +182,25 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
      ![Equação 20](eq20.gif)
      
      ![Equação 21](eq21.gif)
-    
   
   - Determinação de valores do golpe de aríete aceitável;
   
+    Como nossa central é de baixa queda, calculou-se o valor de Kb:
+    
+     ![Equação 22](eq22.gif)
+     
+     ![Equação 23](eq23.gif)
+     
+     ![Equação 24](eq24.gif)
+     
+     Com isso, o valor do golpe de aríete aceitável (hs) será:
+     
+     ![Equação 25](eq25.gif)
+     
+     ![Equação 26](eq26.gif)
+     
+     ![Equação 27](eq27.gif)
+    
+    
   - Projetos que não tiverem todos estes itens respondidos ou que estiverem incompletos **não serão avaliados!**
 Este projeto deverá ser feito neste arquivo até o dia **07/10/2018**. Pedidos de adiamento só serão concedidos em casos excepcionais, a serem decididos pelo professor.
