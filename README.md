@@ -69,20 +69,20 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
   
   ![Equação 1](eq1.gif)
   
-  Tomando o material das paredes do conduto como sendo concreto com acabamento ordinário, o valor tabelado do coeficiente de Gauckler-Manning para a rugosidade do conduto é de 0,014.
+   Tomando o material das paredes do conduto como sendo concreto com acabamento ordinário, o valor tabelado do coeficiente de Gauckler-Manning para a rugosidade do conduto é de 0,014.
   Se considerarmos o escoamento como forçado, ou seja, preenchendo toda a área interna da tubulação, temos que:
   
   ![Equação 2](eq2.gif)
   
-  Assim, podemos reescrever o coeficiente de Chézy para o escoamento em questão como:
+   Assim, podemos reescrever o coeficiente de Chézy para o escoamento em questão como:
   
   ![Equação 3](eq3.gif)
   
-  Substituindo na fórmula de Chézy em função da vazão:
+   Substituindo na fórmula de Chézy em função da vazão:
   
   ![Equação 4](eq4.gif)
   
-  Podemos assumir o valor da declividade do conduto através de uma aproximação razoável, sendo observados outros projetos de parâmetros semelhantes. Para o nosso caso, foi estimado um ângulo de 25° entre a horizontal e o fim do canal, o que nos leva a um valor para o coeficiente de inclinação de:
+   Podemos assumir o valor da declividade do conduto através de uma aproximação razoável, sendo observados outros projetos de parâmetros semelhantes. Para o nosso caso, foi estimado um ângulo de 25° entre a horizontal e o fim do canal, o que nos leva a um valor para o coeficiente de inclinação de:
   
   ![Equação 5](eq5.gif)
   
@@ -123,7 +123,7 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
         
   - Determinação do semiperíodo da onda de pressão para dimensionamento do conduto fechado. Cada grupo poderá fazer as considerações que achar necessárias;
   
-  Para o cálculo do tempo de parada do escoamento (tv), utilizou-se a fórmula empírica de Mendiluce:
+     Para o cálculo do tempo de parada do escoamento (tv), utilizou-se a fórmula empírica de Mendiluce:
   
   
   - Determinação de valores de golpe de aríete positivo máximo;
