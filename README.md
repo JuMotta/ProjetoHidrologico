@@ -90,7 +90,6 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
    -A melhor forma geométrica de seção para o canal em questão;
        
    - O diâmetro hidráulico da seção;
-      
      Substituindo os valores obtidos na fórmula de Chézy, e considerando a vazão média estimada no projeto do aproveitamento (490,67 m³/s), temos:
        
        ![Equação 6](eq6.gif)
@@ -100,18 +99,18 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
        Logo, o diâmetro hidráulico é de 3,68 m.
        
        
-       - Velocidade da água no canal;
+   - Velocidade da água no canal;
        
-         Substituindo o valor do raio na equação da continuidade, temos:
+     Substituindo o valor do raio na equação da continuidade, temos:
        
-           ![Equação 7](eq7.gif)
+        ![Equação 7](eq7.gif)
 
-           ![Equação 8](eq8.gif)
+        ![Equação 8](eq8.gif)
 
-           ![Equação 9](eq9.gif)
+        ![Equação 9](eq9.gif)
        
        
-       - Vazão de água no canal;
+     - Vazão de água no canal;
        
        
       
