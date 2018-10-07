@@ -175,6 +175,15 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
   
   - Determinação de valores de golpe de aríete positivo máximo;
   
+    O valor do golpe de aríete positivo máximo (hs+) obtido foi de:
+    
+     ![Equação 19](eq19.gif)
+     
+     ![Equação 20](eq20.gif)
+     
+     ![Equação 21](eq21.gif)
+    
+  
   - Determinação de valores do golpe de aríete aceitável;
   
   - Projetos que não tiverem todos estes itens respondidos ou que estiverem incompletos **não serão avaliados!**
