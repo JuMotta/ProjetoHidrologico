@@ -79,14 +79,36 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
   ![Equação 3](eq3.gif)
   
   Substituindo na fórmula de Chézy em função da vazão:
-     
+  
+  ![Equação 4](eq4.gif)
+  
+  Podemos assumir o valor da declividade do conduto através de uma aproximação razoável, sendo observados outros projetos de parâmetros semelhantes. Para o nosso caso, foi estimado um ângulo de 25° entre a horizontal e o fim do canal, o que nos leva a um valor para o coeficiente de inclinação de:
+  
+  ![Equação 5](eq5.gif)
+  
        -A melhor forma geométrica de seção para o canal em questão;
        
        - O diâmetro hidráulico da seção;
+      
+       Substituindo os valores obtidos na fórmula de Chézy, e considerando a vazão média estimada no projeto do aproveitamento (490,67 m³/s), temos:
+       
+       ![Equação 6](eq6.gif)
+       ![Equação 6](eq6.1.gif)
+       
        
        - Velocidade da água no canal;
+       Substituindo esse valor na equação da continuidade:
+       
+       ![Equação 7](eq7.gif)
+       
+        ![Equação 8](eq8.gif)
+        
+         ![Equação 9](eq9.gif)
+       
        
        - Vazão de água no canal;
+       
+       
        
       
   - Baseado nos valores de queda dispostos no projeto do aproveitamento, o grupo deverá inserir no desenho esquemático deste projeto os seguintes itens:
