@@ -66,11 +66,14 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
 
   - Projeto do canal para a futura usina hidrelétrica utilizando as fórmulas de Chezy, determinando de acordo com os dados de vazão de cada grupo:
   Podemos estimar o valor do coeficiente de Chézy através da fórmula de Manning como sendo:
+  
   ![Equação 1](eq1.gif)
   Tomando o material das paredes do conduto como sendo concreto com acabamento ordinário, o valor tabelado do coeficiente de Gauckler-Manning para a rugosidade do conduto é de 0,014.
   Se considerarmos o escoamento como forçado, ou seja, preenchendo toda a área interna da tubulação, temos que:
+  
   ![Equação 2](eq2.gif)
   Assim, podemos reescrever o coeficiente de Chézy para o escoamento em questão como:
+  
   ![Equação 3](eq3.gif)
   Substituindo na fórmula de Chézy em função da vazão:
      
