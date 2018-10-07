@@ -65,6 +65,7 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
 
 
   - Projeto do canal para a futura usina hidrelétrica utilizando as fórmulas de Chezy, determinando de acordo com os dados de vazão de cada grupo:
+  ![Equação 1](eq1.gif)
      
        -A melhor forma geométrica de seção para o canal em questão;
        
