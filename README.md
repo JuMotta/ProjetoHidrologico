@@ -96,7 +96,7 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
        
        Resolvendo esta equação, obtemos r = 1,84 m.
        
-       Logo, o diamêtro hidráulico é de 3,68 m.
+       Logo, o diâmetro hidráulico é de 3,68 m.
        
        
        - Velocidade da água no canal;
