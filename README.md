@@ -157,7 +157,7 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
      
        Sendo,
        
-     Km = 5, para o concreto;
+     K_m = 5, para o concreto;
      
      D = diâmetro do conduto;
      
