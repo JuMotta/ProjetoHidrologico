@@ -122,6 +122,8 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
        - Linhas piezométrica e de energia;
        
        Com o valor obtido para o diâmetro hidráulico, estabelecemos as linhas piezométrica e de energia, como pode ser visto na imagem abaixo onde há uma relação das linhas com o desenho técnico e as respectivas cotas.
+       
+       ![Linha Piezométrica e Linha de Energia](Linha Piezométrica.jpg)
         
   - Determinação do semiperíodo da onda de pressão para dimensionamento do conduto fechado. Cada grupo poderá fazer as considerações que achar necessárias;
   
