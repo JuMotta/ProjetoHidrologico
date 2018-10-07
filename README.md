@@ -65,6 +65,7 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
 
 
   - Projeto do canal para a futura usina hidrelétrica utilizando as fórmulas de Chezy, determinando de acordo com os dados de vazão de cada grupo:
+  
   Podemos estimar o valor do coeficiente de Chézy através da fórmula de Manning como sendo:
   
   ![Equação 1](eq1.gif)
@@ -101,13 +102,13 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
        
        - Velocidade da água no canal;
        
-       Substituindo o valor do raio na equação da continuidade, temos:
+         Substituindo o valor do raio na equação da continuidade, temos:
        
-        ![Equação 7](eq7.gif)
+           ![Equação 7](eq7.gif)
 
-        ![Equação 8](eq8.gif)
+           ![Equação 8](eq8.gif)
 
-        ![Equação 9](eq9.gif)
+           ![Equação 9](eq9.gif)
        
        
        - Vazão de água no canal;
