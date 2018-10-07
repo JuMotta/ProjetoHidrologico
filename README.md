@@ -101,11 +101,11 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
        
        Substituindo esse valor na equação da continuidade:
        
-                                                         ![Equação 7](eq7.gif)
+        ![Equação 7](eq7.gif)
 
-                                                         ![Equação 8](eq8.gif)
+        ![Equação 8](eq8.gif)
 
-                                                         ![Equação 9](eq9.gif)
+        ![Equação 9](eq9.gif)
        
        
        - Vazão de água no canal;
