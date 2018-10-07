@@ -131,12 +131,19 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
      ![Equação 12](eq12.gif)
      
        Sendo, 
+       
       L = comprimento do conduto;
+      
       u = velocidade do escoamento;
+      
       H = altura de queda;
+      
       K = um coeficiente, tal que:
+      
 	          K = 2, quando L < 500m
+		  
 	          K = 1,5, quando 500m < L < 1500m
+		  
 	          K = 1, quando L > 1500m
 
       Calculando a Celeridade (Vs), obteve-se:
@@ -148,8 +155,11 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
      ![Equação 15](eq15.gif)
      
        Sendo,
+       
      Km = 5, para o concreto;
+     
      D = diâmetro do conduto;
+     
      e = espessura do conduto. Adotou-se a espessura do conduto como sendo de 1cm.
      
      Para o cálculo do semiperíodo (T), obteve-se:
