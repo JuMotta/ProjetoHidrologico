@@ -123,6 +123,10 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
         
   - Determinação do semiperíodo da onda de pressão para dimensionamento do conduto fechado. Cada grupo poderá fazer as considerações que achar necessárias;
   
+     Com o ângulo estimado de 25° entre a horizontal e o fim do canal, pode ser calculado o comprimento do tubo:
+     
+     ![Equação 9.1](eq9.1.gif)
+  
      Para o cálculo do tempo de parada do escoamento (tv), utilizou-se a fórmula empírica de Mendiluce:
      
      ![Equação 10](eq10.gif)
