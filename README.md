@@ -101,7 +101,7 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
        
        - Velocidade da água no canal;
        
-       Substituindo o valor do raio na equação da continuidade:
+       Substituindo o valor do raio na equação da continuidade, temos:
        
         ![Equação 7](eq7.gif)
 
@@ -122,6 +122,9 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
        - Linhas piezométrica e de energia;
         
   - Determinação do semiperíodo da onda de pressão para dimensionamento do conduto fechado. Cada grupo poderá fazer as considerações que achar necessárias;
+  
+  Para o cálculo do tempo de parada do escoamento (tv), utilizou-se a fórmula empírica de Mendiluce:
+  
   
   - Determinação de valores de golpe de aríete positivo máximo;
   
