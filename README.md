@@ -94,17 +94,18 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
        
        ![Equação 6](eq6.gif)
        
-       Resolvendo esta equação, obtemos ![Equação 6](eq6.1.gif)
+       Resolvendo esta equação, obtemos ![Equação 6](eq6.1.gif).
        
        
        - Velocidade da água no canal;
+       
        Substituindo esse valor na equação da continuidade:
        
-       ![Equação 7](eq7.gif)
-       
-       ![Equação 8](eq8.gif)
-        
-       ![Equação 9](eq9.gif)
+                                                         ![Equação 7](eq7.gif)
+
+                                                         ![Equação 8](eq8.gif)
+
+                                                         ![Equação 9](eq9.gif)
        
        
        - Vazão de água no canal;
