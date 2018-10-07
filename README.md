@@ -111,7 +111,8 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
        
        
      - Vazão de água no canal;
-       
+     
+       Para fins de cálculos, foi assumido que a vazão no canal é a mesma vazão média medida no rio, no caso 490,67 m³/s.
        
       
   - Baseado nos valores de queda dispostos no projeto do aproveitamento, o grupo deverá inserir no desenho esquemático deste projeto os seguintes itens:
