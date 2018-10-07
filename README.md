@@ -113,7 +113,6 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
        - Vazão de água no canal;
        
        
-       
       
   - Baseado nos valores de queda dispostos no projeto do aproveitamento, o grupo deverá inserir no desenho esquemático deste projeto os seguintes itens:
         
@@ -124,7 +123,44 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
   - Determinação do semiperíodo da onda de pressão para dimensionamento do conduto fechado. Cada grupo poderá fazer as considerações que achar necessárias;
   
      Para o cálculo do tempo de parada do escoamento (tv), utilizou-se a fórmula empírica de Mendiluce:
-  
+     
+     ![Equação 10](eq10.gif)
+     
+     ![Equação 11](eq11.gif)
+     
+     ![Equação 12](eq12.gif)
+     
+       Sendo, 
+      L = comprimento do conduto;
+      u = velocidade do escoamento;
+      H = altura de queda;
+      K = um coeficiente, tal que:
+	          K = 2, quando L < 500m
+	          K = 1,5, quando 500m < L < 1500m
+	          K = 1, quando L > 1500m
+
+      Calculando a Celeridade (Vs), obteve-se:
+      
+     ![Equação 13](eq13.gif)
+     
+     ![Equação 14](eq14.gif)
+     
+     ![Equação 15](eq15.gif)
+     
+       Sendo,
+     Km = 5, para o concreto;
+     D = diâmetro do conduto;
+     e = espessura do conduto. Adotou-se a espessura do conduto como sendo de 1cm.
+     
+     Para o cálculo do semiperíodo (T), obteve-se:
+     
+     ![Equação 16](eq16.gif)
+     
+     ![Equação 17](eq17.gif)
+     
+     ![Equação 18](eq18.gif)
+     
+     Como tv>T, essa manobra é classificada como manobra lenta.
   
   - Determinação de valores de golpe de aríete positivo máximo;
   
