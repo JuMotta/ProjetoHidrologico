@@ -86,7 +86,7 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
   
   ![Equação 5](eq5.gif)
   
-   - A melhor forma geométrica de seção para o canal em questão;
+   -A melhor forma geométrica de seção para o canal em questão;
        
    - O diâmetro hidráulico da seção;
       
@@ -94,7 +94,7 @@ O projeto do conduto consistirá na realização e apresentação de cálculos d
        
        ![Equação 6](eq6.gif)
        
-       ![Equação 6](eq6.1.gif)
+       Resolvendo esta equação, obtemos ![Equação 6](eq6.1.gif)
        
        
        - Velocidade da água no canal;
