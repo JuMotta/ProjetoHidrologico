@@ -241,9 +241,9 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   
   	A rotação específica é dada por:
 	
-	![Equação 28](eq.28.gif)
+	![Equação 29](eq.29.gif)
 	
-	SUbstituindo os valores, temos que a rotação específica é ns=1017 rpm.
+	Substituindo os valores, temos que a rotação específica é ns=1017 rpm.
   - Estime a velocidade de disparo da turbina;
   
   - Estime o fator de capacidade;
