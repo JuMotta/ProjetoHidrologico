@@ -228,6 +228,11 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   - Estime a rotação nominal da turbina, considerando um gerador com 10 pólos e frequência de corrente de 60 Hz;
   
   	Tendo que p é o número de pólos e f a frequência, a rotação nominal é dada por: 
+	
+	![Equação 28](eq.28.gif)
+	
+	Substituindo os valores, temos que a rotação nominal é n=720 rpm.
+
   - Para um modelo reduzido de 0,075 m de diâmetro, estime qual deve ser a razão de escala geométrica necessária para se obter os valores de potência e vazão determinados no primeiro item;
   
   - Mostre o triângulo de velocidades para estas condições para turbinas Kaplan, Francis e Pelton. Faça as considerações que achar necessárias e explique-as;
@@ -235,6 +240,10 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   - Determine a rotação específica e classifique a turbina como lenta, rápida ou extra-rápida;
   
   	A rotação específica é dada por:
+	
+	![Equação 28](eq.28.gif)
+	
+	SUbstituindo os valores, temos que a rotação específica é ns=1017 rpm.
   - Estime a velocidade de disparo da turbina;
   
   - Estime o fator de capacidade;
