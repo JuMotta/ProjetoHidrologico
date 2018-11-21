@@ -222,12 +222,12 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
 
   - Cada grupo deverá especificar qual devem ser a potência e vazão da turbina a ser projetada, baseados nos cálculos dos projetos anteriores;
   
-  	De acordo com os cálculos realizados nos projetos anteriores, temos que a potência da turbina a ser instalada será de 19,25 MW e a vazão de 490,67 m³/s
+  	-De acordo com os cálculos realizados nos projetos anteriores, temos que a potência da turbina a ser instalada será de 19,25 MW e a vazão de 490,67 m³/s
 
   
   - Estime a rotação nominal da turbina, considerando um gerador com 10 pólos e frequência de corrente de 60 Hz;
   
-  	Tendo que p é o número de pólos e f a frequência, a rotação nominal é dada por: 
+  	-Tendo que p é o número de pólos e f a frequência, a rotação nominal é dada por: 
 	
 	![Equação 28](eq.28.gif)
 	
@@ -239,7 +239,7 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   
   - Determine a rotação específica e classifique a turbina como lenta, rápida ou extra-rápida;
   
-  	A rotação específica é dada por:
+  	-A rotação específica é dada por:
 	
 	![Equação 29](eq.29.gif)
 	
@@ -250,13 +250,13 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   
   - Qual é o tipo de turbina mais adequado para este aproveitamento?
   
-  	O tipo de turbina mais adequada para este aproveitamento é uma turbina do tipo Kaplan de baixa queda.
+  	-O tipo de turbina mais adequada para este aproveitamento é uma turbina do tipo Kaplan de baixa queda.
 
   - Se for o caso, determine a altura de sucção e diga se existe risco de cavitação;
   
   - Com os cálculos, a usina que conterá esta turbina será classificada como? (Pequena central hidrelétrica, Grande central hidrelétrica, etc.)
   
-  	Conforme os cálculos, temos que a usina que conterá a turbina será uma pequena central hidrelétrica.
+  	-Conforme os cálculos, temos que a usina que conterá a turbina será uma pequena central hidrelétrica.
   - Projetos que não tiverem todos estes itens respondidos ou que estiverem incompletos **não serão avaliados!**
 
 
