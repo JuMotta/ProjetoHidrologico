@@ -234,6 +234,20 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
 	Substituindo os valores, temos que a rotação nominal é n=720 rpm.
 
   - Para um modelo reduzido de 0,075 m de diâmetro, estime qual deve ser a razão de escala geométrica necessária para se obter os valores de potência e vazão determinados no primeiro item;
+  	
+	A razão de escala geométrica é dada por:
+	
+	 ![Equação 34](eq34.gif)
+	 
+	 Onde:
+	 
+	 D_m = Diâmetro do modelo;
+	 D_p = Diâmetro do protótipo;
+	 k_G = Escala geométrica.
+	 
+	 Considerando o valor do diâmetro do modelo igual ao diâmetro hidráulico, tem-se que D_m = 3,68m. Substituindo os valores, tem-se:
+	 
+	 ![Equação 35](eq35.gif)
   
   - Mostre o triângulo de velocidades para estas condições para turbinas Kaplan, Francis e Pelton. Faça as considerações que achar necessárias e explique-as;
   
