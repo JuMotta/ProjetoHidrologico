@@ -237,11 +237,11 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   
   - Mostre o triângulo de velocidades para estas condições para turbinas Kaplan, Francis e Pelton. Faça as considerações que achar necessárias e explique-as;
   
-  	![Turbina Kaplan](Turbina Kaplan.jpg)
+  	![Turbina Kaplan](Kaplan.jpg)
   
-  	![Turbina Francis](Turbina Francis.jpg)
+  	![Turbina Francis](Francis.jpg)
 	
-	![Turbina Pelton](Turbina Pelton.jpg)
+	![Turbina Pelton](Pelton.jpg)
   
   - Determine a rotação específica e classifique a turbina como lenta, rápida ou extra-rápida;
   
