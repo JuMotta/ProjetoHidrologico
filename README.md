@@ -242,10 +242,12 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
 	 Onde:
 	 
 	 Dm = Diâmetro do modelo;
+	 
 	 Dp = Diâmetro do protótipo;
+	 
 	 kG = Escala geométrica.
 	 
-	 Considerando o valor do diâmetro do protótipo igual ao diâmetro hidráulico, tem-se que Dp = 3,68m. Substituindo os valores, tem-se:
+	 Considerando o valor do diâmetro do protótipo igual ao diâmetro do conduto, tem-se que Dp = 3,68m. Substituindo os valores, tem-se:
 	 
 	 ![Equação 35](eq35.gif)
   
