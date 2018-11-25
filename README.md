@@ -257,11 +257,11 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   
   - Qual é o tipo de turbina mais adequado para este aproveitamento?
   
-  	- Henn (2008) apresenta o seguintecampo de aplicação para turbinas hidráulicas:
+  	- Henn (2008) apresenta o seguinte campo de aplicação para turbinas hidráulicas:
 	
+	![Turbinas](turbinas.png)
 	
-	
-	tipo de turbina mais adequada para este aproveitamento é uma turbina do tipo Kaplan de baixa queda.
+	Substituindo os valores de potência calculada, vazão e altura de queda no gráfico, podemos observar que o tipo de turbina mais adequado para este aproveitamento é uma turbina do tipo Kaplan de baixa queda.
 
   - Se for o caso, determine a altura de sucção e diga se existe risco de cavitação;
   
