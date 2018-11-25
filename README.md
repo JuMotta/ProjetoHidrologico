@@ -256,7 +256,8 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   
   - Com os cálculos, a usina que conterá esta turbina será classificada como? (Pequena central hidrelétrica, Grande central hidrelétrica, etc.)
   
-  	-Conforme os cálculos, temos que a usina que conterá a turbina será uma pequena central hidrelétrica.
+  	- Assumindo que o aproveitamento em questão se trata de uma produção independente, autoprodução ou produção autônoma, e que a área do reservatório delimitada pelo nível d’água máximo normal é igual ou inferior a 13km², e atende à condição:
+	
   - Projetos que não tiverem todos estes itens respondidos ou que estiverem incompletos **não serão avaliados!**
 
 
