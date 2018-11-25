@@ -277,6 +277,14 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
 
 - Estime o fator de capacidade;
   
+  O fator de capacidade pode ser calculado através da equação:
+  
+  ![fc1](fc1.gif)
+  
+  Assumindo um rendimento de 90% para a turbina e de 95% para o gerador, temos:
+  
+  ![fc2](fc2.gif)
+  
   - Qual é o tipo de turbina mais adequado para este aproveitamento?
   
   	- Henn (2008) apresenta o seguinte campo de aplicação para turbinas hidráulicas:
