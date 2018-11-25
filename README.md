@@ -247,12 +247,12 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   
   	- A rotação específica é dada por:
 	
-  	!{nq}(nq.gif)
+   !{nq}(nq.gif)
 	
 	Também, segundo a fórmula de Addison devido aos resultados muito pequenos usualmente encontrados na equação anterior:
 	
-	!{nqa}(nqa.gif)
-	
+   !{nqa}(nqa.gif)
+
   - Estime a velocidade de disparo da turbina;
   
   A velocidade de disparo pode ser estimada através da equação:
