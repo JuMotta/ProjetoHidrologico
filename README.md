@@ -254,7 +254,8 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   - Estime a velocidade de disparo da turbina;
   
   A velocidade de disparo pode ser estimada através da equação:
-  	![nmax](nmax.gif)
+  
+   ![nmax](nmax.gif)
 
 - Estime o fator de capacidade;
   
