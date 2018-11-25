@@ -258,6 +258,10 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   
   	- Assumindo que o aproveitamento em questão se trata de uma produção independente, autoprodução ou produção autônoma, e que a área do reservatório delimitada pelo nível d’água máximo normal é igual ou inferior a 13km², e atende à condição:
 	
+	 ![Equação 33](eq33.gif)
+	 
+	 onde P é o perímetro concernente à área delimitada. Dado que a potência instalada se encontra na faixa de 1000 a 30000 kW, a instalação em questão pode ser classificada como uma pequena central hidrelétrica (PCH).
+	
   - Projetos que não tiverem todos estes itens respondidos ou que estiverem incompletos **não serão avaliados!**
 
 
