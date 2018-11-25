@@ -295,6 +295,14 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
 
   - Se for o caso, determine a altura de sucção e diga se existe risco de cavitação;
   
+  A análise de cavitação começa pelo cálculo do fator de Thoma, conforme a equação:
+  
+	 ![thoma](thoma.gif)
+
+  Determinado o fator e Thoma, é possível calcular as perdas dentro da máquina:
+  
+	 ![deltah](deltah.gif)
+
   - Com os cálculos, a usina que conterá esta turbina será classificada como? (Pequena central hidrelétrica, Grande central hidrelétrica, etc.)
   
   	- Assumindo que o aproveitamento em questão se trata de uma produção independente, autoprodução ou produção autônoma, e que a área do reservatório delimitada pelo nível d’água máximo normal é igual ou inferior a 13km², e atende à condição:
