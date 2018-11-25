@@ -249,14 +249,19 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
 	
 	![Equação 30](eq.30.gif)
 	
-	Tendo que n para esta equação é dada em rps, ou seja, n = 12 rps, e assumindo o valor da vazão calculada anteriormente de 490,67 m³/s e a altura de queda manométrica de 4 m, substintuindo as variáveis tem-se que a rotação específica é ns = 94 rps.
+	Tendo que n para esta equação é dada em rps, ou seja, n = 12 rps, e assumindo o valor da vazão calculada anteriormente de 490,67 m³/s e a altura de queda manométrica de 4 m, substintuindo as variáveis tem-se que a rotação específica é nq = 94.
+	
   - Estime a velocidade de disparo da turbina;
   
   - Estime o fator de capacidade;
   
   - Qual é o tipo de turbina mais adequado para este aproveitamento?
   
-  	- O tipo de turbina mais adequada para este aproveitamento é uma turbina do tipo Kaplan de baixa queda.
+  	- Henn (2008) apresenta o seguintecampo de aplicação para turbinas hidráulicas:
+	
+	
+	
+	tipo de turbina mais adequada para este aproveitamento é uma turbina do tipo Kaplan de baixa queda.
 
   - Se for o caso, determine a altura de sucção e diga se existe risco de cavitação;
   
