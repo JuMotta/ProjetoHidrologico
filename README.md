@@ -305,7 +305,7 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
 	 
   Sabe-se que o NPSH requerido é calculado como: 
   
-  ![eq.34](eq.34.gif)
+  
   
   Tendo que a velocidade V2 é de 46,13 m/s, o NPSH requerido é igual a 108,56.
 
