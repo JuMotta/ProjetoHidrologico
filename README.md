@@ -302,6 +302,11 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   Determinado o fator e Thoma, é possível calcular as perdas dentro da máquina:
   
 	 ![deltah](deltah.gif)
+	 
+  Sabe-se que o NPSH requerido é calculado como: 
+  
+  ![eq.34](eq.34.gif)
+
 
   - Com os cálculos, a usina que conterá esta turbina será classificada como? (Pequena central hidrelétrica, Grande central hidrelétrica, etc.)
   
