@@ -313,8 +313,10 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
   
   ![npshd](npshd.gif)
   
-  Tendo que a pressão atmosférica é de aproximadamente 101,3 kPa, a pressão de vapor para a água a 20°C é de 2,3398 kPa, substituindo as variáveis temos um NPSH disponível de aproximadamente 108,46.
-  Como os valores de NP
+  Tendo que a pressão P2 é de aproximadamente 101,3 kPa, a pressão Pv é a pressão de vapor para a água a 20°C, que é de 2,3398 kPa, substituindo as variáveis temos um NPSH disponível de aproximadamente 108,46.
+  Portanto, para não haver cavitação será necessária uma altura de sucção calculada por: 
+  
+  
   - Com os cálculos, a usina que conterá esta turbina será classificada como? (Pequena central hidrelétrica, Grande central hidrelétrica, etc.)
   
   	- Assumindo que o aproveitamento em questão se trata de uma produção independente, autoprodução ou produção autônoma, e que a área do reservatório delimitada pelo nível d’água máximo normal é igual ou inferior a 13km², e atende à condição:
