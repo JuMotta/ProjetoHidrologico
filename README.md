@@ -305,11 +305,16 @@ O dimensionamento preliminar de uma turbina consistirá em determinar e dimensio
 	 
   Sabe-se que o NPSH requerido é calculado como: 
   
-  
+  ![eq.34](eq.34.gif)
   
   Tendo que a velocidade V2 é de 46,13 m/s, o NPSH requerido é igual a 108,56.
 
-
+  Sabe-se que o NPSH disponível é calculado como: 
+  
+  ![npshd](npshd.gif)
+  
+  Tendo que a pressão atmosférica é de aproximadamente 101,3 kPa, a pressão de vapor para a água a 20°C é de 2,3398 kPa, substituindo as variáveis temos um NPSH disponível de aproximadamente 108,46.
+  Como os valores de NP
   - Com os cálculos, a usina que conterá esta turbina será classificada como? (Pequena central hidrelétrica, Grande central hidrelétrica, etc.)
   
   	- Assumindo que o aproveitamento em questão se trata de uma produção independente, autoprodução ou produção autônoma, e que a área do reservatório delimitada pelo nível d’água máximo normal é igual ou inferior a 13km², e atende à condição:
